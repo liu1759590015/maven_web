@@ -5,6 +5,7 @@ import java.util.Date;
 public class Book {
     private Integer id;
     private String name;
+    //书名
     private String author;
     //出版时间
     private Date publishTime;
