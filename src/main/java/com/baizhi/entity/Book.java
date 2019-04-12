@@ -6,7 +6,7 @@ public class Book {
     private Integer id;
     private String name;
     private String author;
-    //出版时间hahaha
+    //出版时间
     private Date publishTime;
 
     public Integer getId() {
